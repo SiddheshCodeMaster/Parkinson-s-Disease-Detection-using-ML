@@ -1,1 +1,1 @@
-# Parkinson-s-Disease-Detection-using-ML
+# Parkinson's-Disease-Detection-using-ML
