@@ -10,4 +10,9 @@ Parkinson's Disease is a progressive nervous system disorder that affects moveme
 
 - Workflow:
 
+Initial Workflow:
+
 Parkinson's Data --> Data Pre-processing --> Train Test Split --> Support Vector Machine (SVM) Classifier
+
+Prediction Workflow:
+New Data --> SVM Classifier --> Parkinson's or Healthy Prediction.
